@@ -1,7 +1,6 @@
-** This is an unfinished project based on truffle webpack box, "approveLoan" function, loaner/borrower
-   ArrayList of the smart contract and the front-end is incomplete
+This is an unfinished project based on truffle webpack box, "approveLoan" function, loaner/borrower ArrayList of the smart contract and the front-end is incomplete
 
-** In order to run the project, please follow the following steps:
+In order to run the project, please follow the following steps:
    1. Make sure you have truffle, metamask, npm and Ganache(optional) installed and updated
    2. unzip the file to the directory you like
    3. Open commandline/terminal and go to the directory where the file is unzipped
@@ -17,5 +16,4 @@
    after the "approve" function is finished and only the "pay 10 UNI each time" will actually work according to
    the "get_started" document
 
-** It's an unfinished project and I'm not satisfied with it
-** If it's possible please give me the contact of your developer so I can ask him questions
+It's an unfinished project and I'm not satisfied with it
